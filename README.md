@@ -1,7 +1,7 @@
 # MuteMate: AI-Powered Communication for the Mute & Deaf
 MuteMate is an AI-driven application designed to facilitate seamless communication between mute, deaf, and non-disabled individuals. It enables real-time translation between speech, text, and sign language, making interactions more inclusive and accessible.
- Features
-🎙️ Speech-to-Sign Translation – Converts spoken words into sign language animations.
+# Features
+🎙️ Speech-to-Sign Translation – Converts spoken words into sign language animations.\n
 🖐️ Sign-to-Text & Speech – Recognizes real-time sign gestures and converts them into text/audio.
 📚 Learn Sign Language – Interactive learning module for mastering sign communication.
 🔊 Text-to-Speech – Converts recognized text into natural-sounding voice output.
